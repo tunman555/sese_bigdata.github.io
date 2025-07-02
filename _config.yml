@@ -1,3 +1,6 @@
-title: My Jekyll Site
-description: A simple site hosted with GitHub Pages
+title: My Cool Jekyll Site
+description: Welcome to my personalized blog!
 theme: minima
+author: Your Name
+email: your@email.com
+show_excerpts: true
